@@ -11,7 +11,7 @@ MySQL database
 npm (Node.js package manager)
 
 #Clone the repository 
-git clone https://github.com/yourusername/aws-pricing-api-node.git
+git clone (https://github.com/rutuja-1201/AWS-pricing-listing-details.git)
 
 
 #Install the required Node.js packages:
