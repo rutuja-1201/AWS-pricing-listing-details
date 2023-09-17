@@ -20,3 +20,5 @@ npm install
 
 #Initialize the databse 
 mysql -u yourusername -p yourdatabase < sql 
+
+#download the index.json file from this https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/using-ppslong.html
